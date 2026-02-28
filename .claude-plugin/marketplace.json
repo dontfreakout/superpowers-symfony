@@ -1,7 +1,11 @@
 {
   "name": "superpowers-symfony",
   "metadata": {
-    "description": "Claude Code plugins for PHP / Symfony development"
+    "description": "Fork of Claude Code plugins for PHP / Symfony development"
+  },
+  "owner": {
+    "name": "Martin Vlcek",
+    "email": ""
   },
   "plugins": [
     {
